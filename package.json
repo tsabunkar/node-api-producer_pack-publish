@@ -20,7 +20,7 @@
   "author": "Tejas S Sabunkar",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^5.0.0"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "chokidar": "^3.0.0",
